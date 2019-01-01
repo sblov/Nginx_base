@@ -85,6 +85,8 @@ server{
 
 ​	启动nginx 或 重载配置		`nginx -s reload`	
 
+![](D:\Git_REP\Nginx\conf.png)
+
 ### 总结
 
 **负载均衡与静态代理的问题：**
